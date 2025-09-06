@@ -90,16 +90,3 @@ dns-packet for DNS encoding
 
 text
 
----
-
-### Key Features of This README:
-1. **Visual Diagrams** (Mermaid.js) for workflow explanation
-2. **Interactive Tables** for roadmap tracking
-3. **Clear Setup Instructions** with code blocks
-4. **FAQ Section** for common questions
-5. **Emoji + Badges** for better engagement
-6. **Improvement Ideas** built into documentation
-
-**Pro Tip**: Add a screenshot of your terminal showing the server in action! 🖥️  
-
-Want me to tweak anything? (e.g., add a "Contributing" section?) 😊
